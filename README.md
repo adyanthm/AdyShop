@@ -40,6 +40,8 @@
 
 AdyShop represents the pinnacle of modern e-commerce development, built with Next.js 15 and featuring cutting-edge design patterns. This isn't just another shopping cart - it's a comprehensive demonstration of best practices in web development, showcasing responsive design, advanced state management, and ultra-modern development practices that set new industry standards.
 
+[Live Preview](https://shop.adyanth.in)
+
 ## ✨ Features
 
 <table>
