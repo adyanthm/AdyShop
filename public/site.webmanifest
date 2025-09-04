@@ -1,0 +1,22 @@
+{
+  "name": "AdyShop - Premium E-commerce Platform",
+  "short_name": "AdyShop",
+  "description": "Discover the latest iPhones, MacBooks, Nike shoes and more with AdyShop!",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
