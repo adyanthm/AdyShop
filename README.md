@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
 </p>
 
 <p align="center">
@@ -549,11 +550,13 @@ git push origin feature/amazing-feature
 
 <div align="center">
 
-### 📜 **Open Source License**
+### 📜 **MIT License**
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 This project is part of **AdyDesigner Apps** and is created by **Adyanth**.
 
-*Feel free to use, modify, and distribute according to the license terms.*
+*Feel free to use, modify, and distribute this project for personal or commercial use.*
 
 </div>
 
